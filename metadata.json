@@ -1,0 +1,6 @@
+{
+  "name": "Self-Healing DPI Swarm",
+  "description": "Autonomous Zero-Downtime API Schema Recovery for Digital Public Infrastructure. Detects schema drift, synthesizes translation adapters, verifies safety invariants, and deploys zero-downtime hot patches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
